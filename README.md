@@ -27,8 +27,6 @@
 
 - 🌱 I’m currently working at **CVS Health**
 
-- 📝 I write articles on [Medium](https://kingshukofficial.medium.com/)
-
 - 📫 Feel free to reach me out **contact@kingshuk.me**
 
 <!--Intro end-->
