@@ -23,7 +23,7 @@
 
 <!--Intro start-->
 
-- Check out my [Porfolio](https://kingshuk.me/)
+- 🗂️ Check out my [Porfolio](https://kingshuk.me/)
 
 - 🌱 I’m currently working at **CVS Health**
 
