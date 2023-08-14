@@ -1,19 +1,16 @@
-<!--horizontal divider(gradiant)-->
-<img src="resources/divider.gif">
+
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="center">
-     <img src="resources/Logo.jpg">
-  </ul>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋🏼, I'm Kingshuk</h1></summary>
+    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Kingshuk</h1></summary>
   </ul>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="resources/divider.gif">
 
 <!--- snake -->
 <div align="center">
