@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently working at **CVS Health**
 
-- 📫 Feel free to reach me out **contact@kingshuk.me**
+- 📫 Say hi: **contact@kingshuk.me**
 
 <!--Intro end-->
 
