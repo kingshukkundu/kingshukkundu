@@ -24,7 +24,7 @@
 
 - 🗂️ Check out my [Porfolio](https://kingshuk.me/)
 
-- 🌱 Currently working at **CVS Health**
+- 🌱 Currently working at **CuraeAI**
 
 - 📫 Say hi: **contact@kingshuk.me**
 
